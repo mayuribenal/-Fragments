@@ -1,0 +1,8 @@
+com/mayuri/fragmentpgm/FragmentTwo.java
+ com.mayuri.fragmentpgm.FragmentTwo
+com/mayuri/fragmentpgm/MainActivity.java
+ com.mayuri.fragmentpgm.MainActivity
+com/mayuri/fragmentpgm/FragmentOne.java
+ com.mayuri.fragmentpgm.FragmentOne
+com/mayuri/fragmentpgm/BuildConfig.java
+ com.mayuri.fragmentpgm.BuildConfig
